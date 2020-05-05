@@ -1,0 +1,4 @@
+parameters:
+    sets:
+        - code-quality
+        - mysql-to-mysqli
